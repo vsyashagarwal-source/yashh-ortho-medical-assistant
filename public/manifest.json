@@ -1,0 +1,29 @@
+{
+  "short_name": "Yashh Ortho",
+  "name": "Yashh Ortho - AI Medical Assistant",
+  "description": "Professional AI Medical Assistant for orthopedic consultations and medical guidance",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0066cc",
+  "background_color": "#ffffff",
+  "categories": ["medical", "health", "productivity"],
+  "lang": "en-US",
+  "orientation": "portrait-primary"
+}
